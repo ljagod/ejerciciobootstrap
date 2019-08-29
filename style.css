@@ -1,0 +1,30 @@
+* {
+  font-family: 'Montserrat';
+}
+.mainfree {
+  text-align: center;
+  background-color:#18BC9C;
+  color: white;
+  width: 100%;
+  display: block;
+
+}
+
+.profile img {
+/*  width: 20%;*/
+}
+
+.menufoto {
+  text-align: center;
+  display: block;
+}
+#fotitos img{
+  width: 100%;
+    margin-bottom:4%;
+
+}
+
+/*.col-md-6 img {
+  width: 100%;
+
+}*/
